@@ -1,3 +1,3 @@
 # esports-tournament-tracker
 C# tournament tracking software
-![image](https://user-images.githubusercontent.com/44801711/210002686-f2654d22-c508-4925-9060-0d2509657a44.png)
+![image](https://user-images.githubusercontent.com/44801711/210039459-655b9582-4328-47a7-8933-ad55c602999c.png)
