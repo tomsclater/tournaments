@@ -21,5 +21,10 @@ namespace TrackerUI
         {
 
         }
+
+        private void loadTournamentButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

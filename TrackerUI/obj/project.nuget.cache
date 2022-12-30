@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yCglkWkO2XYMgqI7nnHtLMbXHuBCJCMnkQrdElk7umWUdHaYmpO5Jsp7hYf55ujqWNvpdtixklqtcqXR2banKA==",
+  "dgSpecHash": "4s7kcln01ZNDZIvwqYuMRpN6BvWyOJTLjs1E4UVpJMNkBf4fipPr//2ZSaBEGaHvKqTkPIsm5vGNmwwFr143pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomsc\\Documents\\Software Programming\\Archive\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+  "projectFilePath": "C:\\Users\\tomsc\\Documents\\Software Programming\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

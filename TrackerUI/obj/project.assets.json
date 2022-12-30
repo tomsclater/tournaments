@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomsc\\Documents\\Software Programming\\Archive\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectUniqueName": "C:\\Users\\tomsc\\Documents\\Software Programming\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "projectName": "TrackerUI",
-      "projectPath": "C:\\Users\\tomsc\\Documents\\Software Programming\\Archive\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectPath": "C:\\Users\\tomsc\\Documents\\Software Programming\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "packagesPath": "C:\\Users\\tomsc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomsc\\Documents\\Software Programming\\Archive\\TournamentTracker\\TrackerUI\\obj\\",
+      "outputPath": "C:\\Users\\tomsc\\Documents\\Software Programming\\TournamentTracker\\TrackerUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tomsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
