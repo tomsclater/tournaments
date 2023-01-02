@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace TrackerUI
 {
-    internal static class Program
+    static class Program
     {
         /// <summary>
         ///  The main entry point for the application.
@@ -20,7 +20,9 @@ namespace TrackerUI
             // Initialize the database connections
             TrackerLibrary.GlobalConfig.InitializeConnections(true, true);
 
-            Application.Run(new TournamentDashboardForm());
+            Application.Run(new CreatePrizeForm());
+
+            // Application.Run(new TournamentDashboardForm());
         }
     }
 }
