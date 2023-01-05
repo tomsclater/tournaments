@@ -38,6 +38,10 @@ namespace TrackerUI
                     db.CreatePrize(model);
                 }    
             }
+            else
+            {
+                MessageBox.Show("This form has invalid information. Please check it and try again.");
+            }
         }
 
         private bool ValidateForm()
